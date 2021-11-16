@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-XR-MAP/static/css/main.e70ee728.chunk.css",
-    "main.js": "/React-XR-MAP/static/js/main.b3b878a0.chunk.js",
-    "main.js.map": "/React-XR-MAP/static/js/main.b3b878a0.chunk.js.map",
+    "main.js": "/React-XR-MAP/static/js/main.bd0799ea.chunk.js",
+    "main.js.map": "/React-XR-MAP/static/js/main.bd0799ea.chunk.js.map",
     "runtime-main.js": "/React-XR-MAP/static/js/runtime-main.5b7afb56.js",
     "runtime-main.js.map": "/React-XR-MAP/static/js/runtime-main.5b7afb56.js.map",
     "static/js/2.1a686283.chunk.js": "/React-XR-MAP/static/js/2.1a686283.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5b7afb56.js",
     "static/js/2.1a686283.chunk.js",
     "static/css/main.e70ee728.chunk.css",
-    "static/js/main.b3b878a0.chunk.js"
+    "static/js/main.bd0799ea.chunk.js"
   ]
 }
