@@ -36,7 +36,7 @@ import "./App.css";
 
 function MapModel(props) {
  
-  const { scene } = useGLTF('./React-XR-MAP/WebDigitalTwin.glb');
+  const { scene } = useGLTF('https://trailseeker.github.io/React-XR-MAP/WebDigitalTwin.glb');
   return <primitive  scale={1}   object={scene} {...props} />
   
 }
@@ -56,7 +56,7 @@ function PlayerExample() {
 function Loading(){
   return(
     <div id='loading'>
-      <img  src='./React-XR-MAP/loading.gif' />
+      <img  src='https://trailseeker.github.io/React-XR-MAP/loading.gif' />
   
     </div>
    
