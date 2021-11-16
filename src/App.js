@@ -36,7 +36,7 @@ import "./App.css";
 
 function MapModel(props) {
  
-  const { scene } = useGLTF('/WebDigitalTwin.glb');
+  const { scene } = useGLTF('./React-XR-MAP/WebDigitalTwin.glb');
   return <primitive  scale={1}   object={scene} {...props} />
   
 }
@@ -56,7 +56,7 @@ function PlayerExample() {
 function Loading(){
   return(
     <div id='loading'>
-      <img  src='loading.gif' />
+      <img  src='./React-XR-MAP/loading.gif' />
   
     </div>
    
